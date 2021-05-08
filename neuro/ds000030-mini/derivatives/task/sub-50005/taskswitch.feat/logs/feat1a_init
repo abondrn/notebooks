@@ -1,0 +1,6 @@
+</pre><hr>Initialisation<br><pre>
+
+/usr/share/fsl/5.0/bin/fslmaths /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/taskswitch/cnp/l1/sub-50005_task-taskswitch_bold_space-MNI152NLin2009cAsym_preproc_smooth prefiltered_func_data -odt float
+Total original volumes = 208
+
+/usr/share/fsl/5.0/bin/fslroi prefiltered_func_data example_func 104 1

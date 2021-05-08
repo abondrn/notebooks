@@ -1,0 +1,16 @@
+{
+    "Name": "UCLA Consortium for Neuropsychiatric Phenomics LA5c Study",
+    "Participants": "The participants, ages 21-50, were recruited by community advertisements from the Los Angeles area and completed extensive neuropsychogical testing, in addition to fMRI scanning. To be included individuals had to be either \"White, Not of Hispanic or Latino Origin\" or \"Hispanic or Latino, of Any Race\" following NIH designations of racial and ethnic minority groups, and have completed at least 8 years of education (other racial and ethnic minority groups were excluded because this was thought to increase risk of confounding planned genetic studies). For participants who spoke both English and Spanish, language for testing was determined by a verbal fluency test. Participants were screened for neurological disease, history of head injury with loss of consciousness or cognitive sequelae, use of psychoactive medications, substance dependence within past 6 months, history of major mental illness or ADHD, and current mood or anxiety disorder. Self-reported history of psychopathology was verified with the SCID-IV (First, Spitzer, Gibbon, & Williams, 1995). Urinalysis was used to screen for drugs of abuse (cannabis, amphetamine, opioids, cocaine, benzodiazepines) on the day of testing and excluded if results were positive.\nA portion of this large sample took part in two separate fMRI sessions, which each included one-hour of behavioral testing and a one-hour scan on the same day. Participants were recruited from the parent study to participate in the fMRI portion if they successfully completed all previous testing sessions, and did not meet the following additional exclusion criteria: history of significant medical illness, contraindications for MRI (including pregnancy), any mood-altering medication on scan day (based on self-report), vision that was insufficient to see task stimuli, and left-handedness.\nAfter receiving a thorough explanation, all participants gave written informed consent according to the procedures approved by the University of California Los Angeles Institutional Review Board.",
+    "Procedure": "All participants received brief training on each task directly before scanning. Each participant viewed the task through MRI-compatible goggles, responded with his or her right hand on an MR-compatible button box in the scanner, and performed one run of each task while in the scanner. Stimulus presentation and timing of all stimuli and response events were achieved using Matlab (Mathworks) and the Psychtoolbox (www.psychtoolbox.org) on an Apple Powerbook.",
+    "BIDSVersion": "1.0.0rc3",
+    "License": "PDDL",
+    "Authors": ["Bilder, R", "Poldrack, R",
+        "Cannon, T", "London, E", "Freimer, N",
+        "Congdon, E", "Karlsgodt, K", "Sabb, F" ],
+    "Acknowledgements": "This work was supported by the Consortium for Neuropsychiatric Phenomics (NIH Roadmap for Medical Research grants UL1-DE019580, RL1MH083268, RL1MH083269, RL1DA024853, RL1MH083270, RL1LM009833, PL1MH083271, and PL1NS062410)",
+    "HowToAcknowledge": "",
+    "Funding": ["UL1-DE019580", "RL1MH083268", "RL1MH083269", "RL1DA024853",
+        "RL1MH083270", "RL1LM009833", "PL1MH083271", "PL1NS062410"],
+    "ReferencesAndLinks": ["http://www.phenowiki.org/wiki/index.php/LA5C"],
+    "DatasetDOI": ""
+}

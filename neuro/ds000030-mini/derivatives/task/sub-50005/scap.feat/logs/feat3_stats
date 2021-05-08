@@ -1,0 +1,97 @@
+</pre><hr>Stats<br><pre>
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD1_DELAY1.5_0_1.txt custom_timing_files/ev1.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD1_DELAY1.5_rt_0_3.txt custom_timing_files/ev2.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD1_DELAY3_0_5.txt custom_timing_files/ev3.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD1_DELAY3_rt_0_7.txt custom_timing_files/ev4.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD1_DELAY4.5_0_9.txt custom_timing_files/ev5.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD1_DELAY4.5_rt_0_11.txt custom_timing_files/ev6.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD3_DELAY1.5_0_13.txt custom_timing_files/ev7.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD3_DELAY1.5_rt_0_15.txt custom_timing_files/ev8.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD3_DELAY3_0_17.txt custom_timing_files/ev9.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD3_DELAY3_rt_0_19.txt custom_timing_files/ev10.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD3_DELAY4.5_0_21.txt custom_timing_files/ev11.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD3_DELAY4.5_rt_0_23.txt custom_timing_files/ev12.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD5_DELAY1.5_0_25.txt custom_timing_files/ev13.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD5_DELAY1.5_rt_0_27.txt custom_timing_files/ev14.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD5_DELAY3_0_29.txt custom_timing_files/ev15.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD5_DELAY3_rt_0_31.txt custom_timing_files/ev16.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD5_DELAY4.5_0_33.txt custom_timing_files/ev17.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD5_DELAY4.5_rt_0_35.txt custom_timing_files/ev18.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD7_DELAY1.5_0_37.txt custom_timing_files/ev19.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD7_DELAY1.5_rt_0_39.txt custom_timing_files/ev20.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD7_DELAY3_0_41.txt custom_timing_files/ev21.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD7_DELAY3_rt_0_43.txt custom_timing_files/ev22.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD7_DELAY4.5_0_45.txt custom_timing_files/ev23.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_LOAD7_DELAY4.5_rt_0_47.txt custom_timing_files/ev24.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_INCORRECT_0_49.txt custom_timing_files/ev25.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign1_0_51.txt custom_timing_files/ev26.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign2_0_52.txt custom_timing_files/ev27.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign3_0_53.txt custom_timing_files/ev28.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign4_0_54.txt custom_timing_files/ev29.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign5_0_55.txt custom_timing_files/ev30.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign6_0_56.txt custom_timing_files/ev31.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign7_0_57.txt custom_timing_files/ev32.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign8_0_58.txt custom_timing_files/ev33.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign9_0_59.txt custom_timing_files/ev34.txt
+
+mkdir -p custom_timing_files ; /usr/share/fsl/5.0/bin/fslFixText /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/scap/cnp/l1design/ev_Realign10_0_60.txt custom_timing_files/ev35.txt
+
+/usr/share/fsl/5.0/bin/film_gls --in=filtered_func_data --rn=stats --pd=design.mat --thr=1.041946 --sa --ms=5 --con=design.con  
+Log directory is: stats
+paradigm.getDesignMatrix().Nrows()=291
+paradigm.getDesignMatrix().Ncols()=60
+sizeTS=291
+numTS=57037
+Calculating residuals...
+Completed
+Estimating residual autocorrelation...
+Calculating raw AutoCorrs... Completed
+mode = 731.688
+sig = 76
+Spatially smoothing auto corr estimates
+................
+Completed
+Tukey M = 17
+Tukey estimates... Completed
+Completed
+Prewhitening and Computing PEs...
+Percentage done:
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,Completed
+Saving results... 
+Completed
+
+/usr/share/fsl/5.0/bin/smoothest -d 231   -m mask -r stats/res4d > stats/smoothness

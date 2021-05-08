@@ -1,0 +1,26 @@
+
+/bin/cp /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1design/run0.fsf design.fsf
+
+/usr/share/fsl/5.0/bin/feat_model design
+
+mkdir .files;cp /usr/share/fsl/5.0/doc/fsl.css .files;cp -r /usr/share/fsl/5.0/doc/images .files/images
+
+/usr/share/fsl/5.0/bin/fsl_sub -T 10 -l logs -N feat0_init   /usr/share/fsl/5.0/bin/feat /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat/design.fsf -D /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat -I 1 -init
+bc: symbol lookup error: /usr/local/miniconda/lib/libreadline.so.6: undefined symbol: PC
+123906
+
+/usr/share/fsl/5.0/bin/fsl_sub -T 0 -l logs -N feat2_pre -j 123906  /usr/share/fsl/5.0/bin/feat /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat/design.fsf -D /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat -I 1 -prestats
+bc: symbol lookup error: /usr/local/miniconda/lib/libreadline.so.6: undefined symbol: PC
+127835
+
+/usr/share/fsl/5.0/bin/fsl_sub -T 1 -l logs -N feat3_film -j 127835  /usr/share/fsl/5.0/bin/feat /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat/design.fsf -D /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat -I 1 -stats
+bc: symbol lookup error: /usr/local/miniconda/lib/libreadline.so.6: undefined symbol: PC
+133900
+
+/usr/share/fsl/5.0/bin/fsl_sub -T 119 -l logs -N feat4_post -j 133900  /usr/share/fsl/5.0/bin/feat /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat/design.fsf -D /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat -poststats 0 
+bc: symbol lookup error: /usr/local/miniconda/lib/libreadline.so.6: undefined symbol: PC
+166619
+
+/usr/share/fsl/5.0/bin/fsl_sub -T 1 -l logs -N feat5_stop -j 127835,133900,166619  /usr/share/fsl/5.0/bin/feat /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat/design.fsf -D /oak/stanford/groups/russpold/data/ds000030_R1.0.3_preprocessed_0.4.4/task/sub-50005/stopsignal/cnp/l1estimate/run0.feat -stop
+bc: symbol lookup error: /usr/local/miniconda/lib/libreadline.so.6: undefined symbol: PC
+194903
